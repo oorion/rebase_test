@@ -6,6 +6,7 @@ a
 b
 change on master
 change4
+change on master
 line1
 line2
 change2 on master
